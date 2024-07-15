@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Where Have I Been</string>
+    <string name="overview_button">Overview</string>
+    <string name="upload_button">Upload</string>
+    <string name="account_button">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
